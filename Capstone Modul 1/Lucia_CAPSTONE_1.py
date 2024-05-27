@@ -1,6 +1,6 @@
 from database_functions import *    # Database and multiple-use functions
 from crud_menus import *            # CRUD menus
-2
+
 data = database()
 
 #### DEF CRUD FUNCTIONS ####
